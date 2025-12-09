@@ -15,4 +15,4 @@
 ## Desktop Apps
 
 ### C++
-* #### [C++ Calculator] https://github.com/rosa-lpz/cpp_calculator-desktop-app
+* #### [C++ Calculator](https://github.com/rosa-lpz/cpp_calculator-desktop-app)
